@@ -1,7 +1,7 @@
 /**
  * Supplier & Purchase Management
  * CRUD operations backed by the /orders REST API
- */
+ **/
 
 let selectedNotificationId = null;
 
